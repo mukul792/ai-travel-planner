@@ -1,0 +1,122 @@
+2025-12-04 19:04:00,597 - INFO - Intilaized TravelPlanner instance
+2025-12-04 19:04:00,598 - INFO - City set sucesfully
+2025-12-04 19:04:00,598 - INFO - Interest also set sucesfully..
+2025-12-04 19:04:00,598 - INFO - Gnerating itineary for delhi and for interests : ['mumbai']
+2025-12-04 19:04:01,939 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:04:01,978 - INFO - Itineary generated sucesffully..
+2025-12-04 19:10:35,272 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:10:35,272 - INFO - City set successfully
+2025-12-04 19:10:35,272 - INFO - Generating itinerary for delhi
+2025-12-04 19:10:36,746 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:10:36,747 - INFO - Itinerary generated successfully
+2025-12-04 19:10:48,369 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:10:48,370 - INFO - City set successfully
+2025-12-04 19:10:48,370 - INFO - Generating itinerary for mumbai
+2025-12-04 19:10:49,426 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:10:49,427 - INFO - Itinerary generated successfully
+2025-12-04 19:15:02,362 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:15:02,362 - INFO - City set successfully
+2025-12-04 19:15:02,362 - INFO - Generating itinerary for mumbai
+2025-12-04 19:15:03,285 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:15:03,286 - INFO - Itinerary generated successfully
+2025-12-04 19:16:02,201 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:16:02,201 - INFO - City set successfully
+2025-12-04 19:16:02,201 - INFO - Generating itinerary for delhi
+2025-12-04 19:16:03,275 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:16:03,276 - INFO - Itinerary generated successfully
+2025-12-04 19:21:01,205 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:21:01,205 - INFO - City set successfully
+2025-12-04 19:21:01,205 - INFO - Number of days set successfully
+2025-12-04 19:21:01,206 - INFO - Generating itinerary for delhi for 1 days
+2025-12-04 19:21:03,351 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:21:03,365 - INFO - Itinerary generated successfully
+2025-12-04 19:21:11,877 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:21:11,877 - INFO - City set successfully
+2025-12-04 19:21:11,877 - INFO - Number of days set successfully
+2025-12-04 19:21:11,877 - INFO - Generating itinerary for delhi for 3 days
+2025-12-04 19:21:16,054 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:21:16,068 - INFO - Itinerary generated successfully
+2025-12-04 19:22:06,628 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:22:06,628 - INFO - City set successfully
+2025-12-04 19:22:06,628 - INFO - Number of days set successfully
+2025-12-04 19:22:06,629 - INFO - Generating itinerary for delhi for 7 days
+2025-12-04 19:22:11,255 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:22:11,256 - INFO - Itinerary generated successfully
+2025-12-04 19:22:59,771 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:22:59,771 - INFO - City set successfully
+2025-12-04 19:22:59,771 - INFO - Number of days set successfully
+2025-12-04 19:22:59,771 - INFO - Generating itinerary for london for 7 days
+2025-12-04 19:23:03,623 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:23:03,626 - INFO - Itinerary generated successfully
+2025-12-04 19:25:40,615 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:25:40,615 - INFO - City set successfully
+2025-12-04 19:25:40,615 - INFO - Number of days set successfully
+2025-12-04 19:25:40,615 - INFO - Generating itinerary for london for 5 days
+2025-12-04 19:25:43,471 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:25:43,473 - INFO - Itinerary generated successfully
+2025-12-04 19:27:01,274 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:27:01,274 - INFO - City set successfully
+2025-12-04 19:27:01,274 - INFO - Number of days set successfully
+2025-12-04 19:27:01,274 - INFO - Generating itinerary for delhi for 5 days
+2025-12-04 19:27:05,536 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:27:05,537 - INFO - Itinerary generated successfully
+2025-12-04 19:29:11,953 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:29:11,953 - INFO - City set successfully
+2025-12-04 19:29:11,953 - INFO - Number of days set successfully
+2025-12-04 19:29:11,954 - INFO - Generating itinerary for delhi for 5 days
+2025-12-04 19:29:15,190 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:29:15,191 - INFO - Itinerary generated successfully
+2025-12-04 19:29:50,609 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:29:50,609 - INFO - City set successfully
+2025-12-04 19:29:50,609 - INFO - Number of days set successfully
+2025-12-04 19:29:50,610 - INFO - Generating itinerary for delhi for 5 days
+2025-12-04 19:29:53,575 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:29:53,578 - INFO - Itinerary generated successfully
+2025-12-04 19:34:36,145 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:34:36,145 - INFO - City set successfully
+2025-12-04 19:34:36,145 - INFO - Number of days set successfully
+2025-12-04 19:34:36,145 - INFO - Generating itinerary for uttrakhand for 1 days
+2025-12-04 19:34:37,947 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:34:37,949 - INFO - Itinerary generated successfully
+2025-12-04 19:34:45,078 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:34:45,078 - INFO - City set successfully
+2025-12-04 19:34:45,078 - INFO - Number of days set successfully
+2025-12-04 19:34:45,079 - INFO - Generating itinerary for uttrakhand for 3 days
+2025-12-04 19:34:47,838 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:34:47,839 - INFO - Itinerary generated successfully
+2025-12-04 19:35:46,503 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:35:46,503 - INFO - City set successfully
+2025-12-04 19:35:46,503 - INFO - Number of days set successfully
+2025-12-04 19:35:46,504 - INFO - Generating itinerary for uttrakhand for 3 days
+2025-12-04 19:35:48,280 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:35:48,281 - INFO - Itinerary generated successfully
+2025-12-04 19:36:41,052 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:36:41,053 - INFO - City set successfully
+2025-12-04 19:36:41,053 - INFO - Number of days set successfully
+2025-12-04 19:36:41,053 - INFO - Generating itinerary for uttrakhand for 3 days
+2025-12-04 19:36:43,666 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:36:43,667 - INFO - Itinerary generated successfully
+2025-12-04 19:37:10,554 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:37:10,554 - INFO - City set successfully
+2025-12-04 19:37:10,555 - INFO - Number of days set successfully
+2025-12-04 19:37:10,555 - INFO - Generating itinerary for uttrakhand for 7 days
+2025-12-04 19:37:13,989 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:37:13,990 - INFO - Itinerary generated successfully
+2025-12-04 19:56:28,925 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:56:28,925 - INFO - City set successfully
+2025-12-04 19:56:28,926 - INFO - Number of days set successfully
+2025-12-04 19:56:28,926 - INFO - Generating itinerary for delhi for 3 days
+2025-12-04 19:56:30,946 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:56:30,947 - INFO - Itinerary generated successfully
+2025-12-04 19:56:44,507 - INFO - Initialized TravelPlanner instance
+2025-12-04 19:56:44,508 - INFO - City set successfully
+2025-12-04 19:56:44,508 - INFO - Number of days set successfully
+2025-12-04 19:56:44,508 - INFO - Generating itinerary for delhi for 5 days
+2025-12-04 19:56:47,490 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 19:56:47,491 - INFO - Itinerary generated successfully
+2025-12-04 20:15:17,253 - INFO - Initialized TravelPlanner instance
+2025-12-04 20:15:17,253 - INFO - City set successfully
+2025-12-04 20:15:17,253 - INFO - Number of days set successfully
+2025-12-04 20:15:17,253 - INFO - Generating itinerary for delhi for 5 days
+2025-12-04 20:15:20,847 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-12-04 20:15:20,848 - INFO - Itinerary generated successfully
