@@ -7,6 +7,10 @@ This project integrates **Groq LLM**, **LangChain**, and **Streamlit** to delive
 
 ---
 
+![Alt text](ai travel planner/travel.png)
+
+---
+
 ## 🚀 Features
 
 - Enter any city to generate a custom itinerary  
