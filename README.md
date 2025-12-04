@@ -7,8 +7,9 @@ This project integrates **Groq LLM**, **LangChain**, and **Streamlit** to delive
 
 ---
 
-![Alt text](ai-travel-planner/ai travel planner
-/travel.png)
+
+![Alt text](ai travel planner/travel.png)
+
 
 ---
 
